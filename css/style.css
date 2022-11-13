@@ -34,7 +34,8 @@ body {
 }
 .navigation__list__link:hover,
 .navigation__list__link:focus,
-.address__link {
+.address__link:hover,
+.address__link:focus {
   color: var(--mein-color);
 }
 .address__link {
